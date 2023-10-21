@@ -37959,4 +37959,4 @@ INSERT INTO cities (city_name, region_id, status) VALUES
 ('Vijes',805,'ACTIVE'),
 ('Yotoco',805,'ACTIVE'),
 ('Yumbo',805,'ACTIVE'),
-('Zarzal',805,'ACTIVE');
+('Zarzal',805,'ACTIVE')
